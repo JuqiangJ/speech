@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Data science for language and speech studies"
 ---
 
 Hello, Website!
