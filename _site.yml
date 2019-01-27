@@ -1,8 +1,8 @@
-name: "my-website"
+name: "Juqiang Data scicence for "
 navbar:
-  title: "My Website"
+  title: "Juqiang Chen"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Blog"
       href: about.html
