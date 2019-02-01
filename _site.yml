@@ -1,8 +1,12 @@
-name: "Juqiang Data scicence for "
+name: "Juqiang Chen"
+output_dir: "."
 navbar:
-  title: "Juqiang Chen"
+  title: "Juqiang"
   left:
-    - text: "Home"
+    - text: "CV"
       href: index.html
     - text: "Blog"
       href: about.html
+output:
+  html_document:
+    theme: paper

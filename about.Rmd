@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Data science for language and speech studies"
 ---
 
-More about this website.
+THIS SITE IS UNDER CONSTRUCTION
